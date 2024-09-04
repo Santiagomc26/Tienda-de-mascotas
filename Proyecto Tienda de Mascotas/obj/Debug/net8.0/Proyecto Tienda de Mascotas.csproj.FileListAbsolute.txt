@@ -1,0 +1,14 @@
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\bin\Debug\net8.0\Proyecto Tienda de Mascotas.exe
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\bin\Debug\net8.0\Proyecto Tienda de Mascotas.deps.json
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\bin\Debug\net8.0\Proyecto Tienda de Mascotas.runtimeconfig.json
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\bin\Debug\net8.0\Proyecto Tienda de Mascotas.dll
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\bin\Debug\net8.0\Proyecto Tienda de Mascotas.pdb
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\obj\Debug\net8.0\Proyecto Tienda de Mascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\obj\Debug\net8.0\Proyecto Tienda de Mascotas.AssemblyInfoInputs.cache
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\obj\Debug\net8.0\Proyecto Tienda de Mascotas.AssemblyInfo.cs
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\obj\Debug\net8.0\Proyecto Tienda de Mascotas.csproj.CoreCompileInputs.cache
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\obj\Debug\net8.0\Proyecto Tienda de Mascotas.dll
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\obj\Debug\net8.0\refint\Proyecto Tienda de Mascotas.dll
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\obj\Debug\net8.0\Proyecto Tienda de Mascotas.pdb
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\obj\Debug\net8.0\Proyecto Tienda de Mascotas.genruntimeconfig.cache
+C:\Users\CompuMax\Desktop\Proyecto Tienda de Mascotas\Proyecto Tienda de Mascotas\obj\Debug\net8.0\ref\Proyecto Tienda de Mascotas.dll
